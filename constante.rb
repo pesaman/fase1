@@ -34,6 +34,8 @@ puts "resultado de division es":quotient
 # verdadero y falso 
 igual_que = 50==50
 igual_que = true
+#este es un ejemplo de imprimir una variable
+puts "el resultado es #{igual_que}"
 
 menor_que = 23 < 30
 menor_que = true
